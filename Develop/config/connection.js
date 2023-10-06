@@ -8,7 +8,7 @@ const sequelize = process.env.JAWSDB_URL
     // const sequelize = new sequelize.Sequelize("ecommerce_db", "root", null{
     //   host: "localhost",
     // })
-      host: 'localhost',
+      host: '127.0.0.1',
       dialect: 'mysql',
       dialectOptions: {
         decimalNumbers: true,
