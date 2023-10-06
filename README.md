@@ -26,7 +26,10 @@ The back end for an e-commerce site. Uses a working Express.js API and configure
 
 
 ## Usage
-Using it you will needs to answer all prompt questions. Upon completion of the questions a README will be generated in the output folder under README.md
+Use Insomnia with url http://localhost:3001/api/tags, http://localhost:3001/api/categories, http://localhost:3001/api/products
+
+![Screenshot of Insomnia demo] (./ScreenshotInsomnia)
+
 
 [![Watch the demonstration video]](https://drive.google.com/file/d/1VI0JQmOAtTrndXCnU8xqC7pMWRBhFYIh/view)
 
@@ -35,7 +38,7 @@ Using it you will needs to answer all prompt questions. Upon completion of the q
       This project is Licensed under MIT
 
 ## Contributions
-Others can contribute by accessing this project through the GitHub repo (location available as a hyperlink once README is generated)
+Others can contribute by accessing this project through the GitHub repo (location available as a hyperlink below)
 
 ## Tests
 Test the app by using it with Insomnia
